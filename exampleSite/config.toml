@@ -24,7 +24,7 @@ address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
 baidu_analytics_id = ""
 baidu_site_verification = ""
-copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2022"
 description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analytics_id = ""
@@ -33,13 +33,13 @@ logo = ""
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [params.cookies]
 enable = true
 expire_days = 2
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
