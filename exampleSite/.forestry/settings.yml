@@ -41,6 +41,9 @@ sections:
 - type: document
   path: exampleSite/data/homepage.yml
   label: Homepage
+- type: document
+  path: exampleSite/content/about.yml
+  label: About
   match: "**/*"
 - type: heading
   label: Configuration
