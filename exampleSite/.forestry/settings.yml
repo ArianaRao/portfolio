@@ -38,11 +38,10 @@ sections:
   - author
 - type: heading
   label: Data
-- type: directory
-  path: exampleSite/data
+- type: document
+  path: exampleSite/data/homepage.yml
   label: Homepage
-  create: none
-  match: homepage.yml
+  match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
