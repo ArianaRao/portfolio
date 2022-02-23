@@ -41,8 +41,8 @@ sections:
 - type: directory
   path: exampleSite/data
   label: Homepage
-  create: all
-  match: "**/*"
+  create: none
+  match: homepage.yml
 - type: heading
   label: Configuration
 - type: directory
