@@ -44,15 +44,12 @@ sections:
 - type: document
   path: exampleSite/content/about.yml
   label: About
-  match: "**/*"
 - type: heading
   label: Configuration
-- type: directory
-  path: exampleSite
+- type: document
+  path: exampleSite/config.toml
   label: Configuration
-  create: all
-  match: "*.toml"
-  new_doc_ext: toml
+  match: "**/*"
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
