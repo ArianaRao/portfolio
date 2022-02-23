@@ -8,7 +8,7 @@ sections:
   label: Blog
 - type: directory
   path: exampleSite/content/blog
-  label: Posts
+  label: Post
   create: documents
   match: "**/*"
   templates:
@@ -17,25 +17,9 @@ sections:
   label: Portfolio
 - type: directory
   path: exampleSite/content/portfolio
-  label: Projects
+  label: Project
   create: all
   match: "**/*"
-- type: heading
-  label: Author
-- type: directory
-  path: exampleSite/content/english/author
-  label: Author (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
 - type: heading
   label: Data
 - type: document
