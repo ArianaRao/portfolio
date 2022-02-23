@@ -42,14 +42,13 @@ sections:
   path: exampleSite/data/homepage.yml
   label: Homepage
 - type: document
-  path: exampleSite/content/about.yml
+  path: exampleSite/data/about.yml
   label: About
 - type: heading
   label: Configuration
 - type: document
   path: exampleSite/config.toml
   label: Configuration
-  match: "**/*"
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
