@@ -14,6 +14,13 @@ sections:
   templates:
   - post
 - type: heading
+  label: Portfolio
+- type: directory
+  path: exampleSite/content/portfolio
+  label: Projects
+  create: all
+  match: "**/*"
+- type: heading
   label: Author
 - type: directory
   path: exampleSite/content/english/author
