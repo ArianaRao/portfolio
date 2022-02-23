@@ -2,7 +2,7 @@ baseURL = "https://ariana-rao.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Mingzi Rao — Digital marketing & data science student"
 [[menu.main]]
 URL = "about"
 name = "About"
