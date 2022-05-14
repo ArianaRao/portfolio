@@ -20,13 +20,13 @@ skill:
     progress: 90%
     color: "#fdb157"
   - title: Skills
-    progress: 60%
+    progress: 90%
     color: "#9473e6"
   - title: Softwares
-    progress: 80%
+    progress: 90%
     color: "#bdecf6"
   - title: Hobbies
-    progress: 70%
+    progress: 90%
     color: "#ffbcaa"
 experience:
   enable: true
