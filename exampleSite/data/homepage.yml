@@ -16,16 +16,16 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
+  - title: Languages
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
+  - title: Skills
     progress: 60%
     color: "#9473e6"
-  - title: After Effects
+  - title: Softwares
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
+  - title: Hobbies
     progress: 70%
     color: "#ffbcaa"
 experience:
