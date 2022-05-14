@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: site/content/about/_index.md
-  label: About
-  match: "**/*"
 - type: heading
   label: Blog
 - type: directory
@@ -30,7 +26,7 @@ sections:
   path: site/data/homepage.yml
   label: Homepage
 - type: document
-  path: site/data/about.yml
+  path: site/content/about/_index.md
   label: About
 - type: heading
   label: Configuration
