@@ -8,6 +8,34 @@ about:
     enable: true
     label: know more
     URL: about
+experience:
+  enable: true
+  title: Experience
+  item:
+  - logo: images/experience/icon-2.png
+    title: Marketing and Communication Manager
+    company: Aurizone
+    duration: 4 months - 2019
+  - logo: images/experience/icon-1.png
+    title: Communication Assistant
+    company: Europa Holiday Travel
+    duration: 5 months - 2019
+education:
+  enable: true
+  title: Education
+  item:
+  - title: MSc Digital Marketing & Data Science
+    year: 2021 - 2022
+    academy: Emlyon Business School
+  - title: Master International Business and Management
+    year: 2018 - 2019
+    academy: Sorbonne University
+  - title: Bachelor Applied Foreign Languages
+    year: 2016 - 2017
+    academy: Sorbonne University
+  - title: Bachelor Applied French (Business & Communication Direction)
+    year: 2014 - 2018
+    academy: Renmin University of China - Top 8 Chinese Universities
 skill:
   enable: true
   title: Skills
@@ -46,34 +74,6 @@ skill:
     - Cinema
     - Fashion
     - Literature
-experience:
-  enable: true
-  title: Experience
-  item:
-  - logo: images/experience/icon-2.png
-    title: Marketing and Communication Manager
-    company: Aurizone
-    duration: 4 months - 2019
-  - logo: images/experience/icon-1.png
-    title: Communication Assistant
-    company: Europa Holiday Travel
-    duration: 5 months - 2019
-education:
-  enable: true
-  title: Education
-  item:
-  - title: MSc Digital Marketing & Data Science
-    year: 2021 - 2022
-    academy: Emlyon Business School
-  - title: Master International Business and Management
-    year: 2018 - 2019
-    academy: Sorbonne University
-  - title: Bachelor Applied Foreign Languages
-    year: 2016 - 2017
-    academy: Sorbonne University
-  - title: Bachelor Applied French (Business & Communication Direction)
-    year: 2014 - 2018
-    academy: Renmin University of China - Top 8 Chinese Universities
 service:
   enable: false
   title: Services
