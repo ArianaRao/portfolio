@@ -405,15 +405,23 @@ textarea.form-control {
 }
 
 .card {
-  border: 0
+  border: 0;
+  height: 100%;
 }
 
 .card-header {
-  border: 0
+  border: 0;
 }
 
 .card-footer {
-  border: 0
+  border: 0;
+}
+
+.card-footer ul {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0;
 }
 
 .navigation {

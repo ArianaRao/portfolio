@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Blog
 - type: directory
-  path: exampleSite/content/blog
+  path: site/content/blog
   label: Post
   create: documents
   match: "**/*"
@@ -16,24 +16,24 @@ sections:
 - type: heading
   label: Portfolio
 - type: directory
-  path: exampleSite/content/portfolio
+  path: site/content/portfolio
   label: Project
   create: all
   match: "**/*"
 - type: heading
   label: Data
 - type: document
-  path: exampleSite/data/homepage.yml
+  path: site/data/homepage.yml
   label: Homepage
 - type: document
-  path: exampleSite/data/about.yml
+  path: site/data/about.yml
   label: About
 - type: heading
   label: Configuration
 - type: document
-  path: exampleSite/config.toml
+  path: site/config.toml
   label: Configuration
-upload_dir: exampleSite/static/images
+upload_dir: site/static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false

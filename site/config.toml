@@ -1,7 +1,8 @@
 baseURL = "https://ariana-rao.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
+themesDir = ".."
+theme = "theme"
 title = "Mingzi Rao"
 [[menu.main]]
 URL = "about"

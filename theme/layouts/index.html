@@ -46,6 +46,7 @@
   </section>
   <!-- /hero area -->
 
+
   {{ if site.Data.homepage.about.enable }}
   <!-- about -->
   <section class="section">
@@ -67,34 +68,6 @@
   <!-- /about -->
   {{ end }}
 
-
-  {{ if site.Data.homepage.skill.enable }}
-  {{ with site.Data.homepage.skill }}
-  <!-- skills -->
-  <section class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-title">{{ .title | markdownify }}</h2>
-        </div>
-        {{ range .item }}
-        <div class="col-lg-3 col-sm-6 mb-4">
-          <div class="card shadow text-center">
-            <div class="position-relative rounded-top progress-wrapper" data-color="{{.color}}">
-              <div class="wave" data-progress="{{.progress}}"></div>
-            </div>
-            <div class="card-footer bg-white">
-              <h4 class="card-title">{{.title }} ({{.progress}})</h4>
-            </div>
-          </div>
-        </div>
-        {{ end }}
-      </div>
-    </div>
-  </section>
-  <!-- /skills -->
-  {{ end }}
-  {{ end }}
 
   {{ if site.Data.homepage.experience.enable }}
   {{ with site.Data.homepage.experience }}
@@ -120,6 +93,7 @@
   {{ end }}
   {{ end }}
 
+
   {{ if site.Data.homepage.education.enable }}
   {{ with site.Data.homepage.education }}
   <!-- education -->
@@ -130,7 +104,7 @@
           <h2 class="section-title">{{ .title | markdownify }}</h2>
         </div>
         {{ range .item }}
-        <div class="col-lg-6 col-md-6 mb-80">
+        <div class="ml-5 mb-80">
           <div class="d-flex">
             <div class="mr-lg-5 mr-3">
               <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
@@ -149,6 +123,42 @@
     <img class="img-fluid edu-bg-image w-100" src="{{`images/backgrounds/education-bg.png`|relURL}}" alt="bg-image">
   </section>
   <!-- /education -->
+  {{ end }}
+  {{ end }}
+
+
+  {{ if site.Data.homepage.skill.enable }}
+  {{ with site.Data.homepage.skill }}
+  <!-- skills -->
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <!-- <div class="col-lg-12 text-center">
+          <h2 class="section-title">{{ .title | markdownify }}</h2>
+        </div> -->
+        {{ range .item }}
+        <div class="col-lg-3 col-sm-6 mb-4">
+          <div class="card shadow text-center">
+            <div class="position-relative rounded-top progress-wrapper" data-color="{{.color}}">
+              <div class="wave" data-progress="{{.progress}}"></div>
+            </div>
+            <div class="card-footer bg-white">
+              <h4 class="card-title">{{.title}}</h4>
+              {{ if .item }}
+              <ul>
+                {{ range .item }}
+                <li>{{ . | markdownify }}</li>
+                {{ end }}
+              </ul>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /skills -->
   {{ end }}
   {{ end }}
 
