@@ -80,7 +80,7 @@
         </div>
         {{ range .item }}
         <div class="col-lg-3 col-md-4 text-center">
-          <img src="{{.logo | relURL }}" alt="icon">
+          <img src="{{.logo | relURL }}" class="mb-2" width="80" alt="icon">
           <p class="mb-0">{{.duration}}</p>
           <h4>{{.title }}</h4>
           <h6 class="text-light">{{.company }}</h6>
@@ -104,7 +104,7 @@
           <h2 class="section-title">{{ .title | markdownify }}</h2>
         </div>
         {{ range .item }}
-        <div class="ml-5 mb-80">
+        <div class="ml-md-5 mb-80">
           <div class="d-flex">
             <div class="mr-lg-5 mr-3">
               <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
