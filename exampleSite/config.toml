@@ -4,33 +4,33 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Mingzi Rao"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 2
+URL = "about"
+name = "About"
+weight = 1
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 1
+weight = 2
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "portfolio"
+name = "Portfolio"
 weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [params]
 address = ""
 author = "Mingzi Rao"
 baidu_analytics_id = ""
 baidu_site_verification = ""
 copyright = "Copyright &copy; 2022 - Mingzi Rao"
-description = "This is meta description"
+description = "Digital Marketing & Data Science Student"
 email = "arianarao.pro@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = ""
 theme_color = "#41228e"
 [params.contact]
 enable = false
