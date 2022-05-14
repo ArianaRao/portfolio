@@ -3,4 +3,4 @@
   command = "cd site && hugo --gc"
   
 [build.environment]
-  HUGO_VERSION = "0.71.1"
+  HUGO_VERSION = "0.98.0"
