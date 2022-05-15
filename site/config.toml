@@ -1,6 +1,7 @@
 baseURL = "https://ariana-rao.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
+disableHugoGeneratorInject = true
 themesDir = ".."
 theme = "theme"
 title = "Ariana Rao"
