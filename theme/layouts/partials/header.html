@@ -14,8 +14,7 @@
 
     <div class="collapse navbar-collapse text-center" id="navigation">
       <ul class="navbar-nav ml-auto">
-        {{ $active := (eq .RelPermalink "/") }}
-        <li class="nav-item {{ if $active }}active{{ end }}">
+        <li class="nav-item {{ if .IsHome }}active{{ end }}">
           <a class="nav-link" href="{{ site.BaseURL }}">{{ with site.Params.Home }} {{ . }} {{ end }}</a>
         </li>
         {{ $current := . }}

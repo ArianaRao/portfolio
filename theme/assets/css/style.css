@@ -640,7 +640,7 @@ textarea.form-control {
   border-radius: inherit;
   top: 0;
   left: 0;
-  background: rgba(0, 0, 0, .3);
+  background: rgba(0, 0, 0, .4);
   opacity: 0;
   visibility: hidden;
   transition: .3s ease
@@ -770,6 +770,11 @@ blockquote {
   color: #000;
   display: inherit;
   line-height: 1.5
+}
+
+.content ul,
+.content ol {
+  list-style-type: initial;
 }
 
 .page-title-alt {
