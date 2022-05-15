@@ -20,6 +20,7 @@ sections:
   label: Project
   create: all
   match: "**/*"
+  exclude: _*
 - type: heading
   label: Data
 - type: document
