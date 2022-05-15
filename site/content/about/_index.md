@@ -1,6 +1,6 @@
 ---
 title: About
-description: This is meta description.
+description: Digital Marketing & Data Science student.
 author_image: images/about/author.jpg
 
 ---
