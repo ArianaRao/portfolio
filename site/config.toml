@@ -9,12 +9,12 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
-[[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
 weight = 3
 [[menu.main]]
 URL = "contact"
@@ -26,12 +26,13 @@ author = "Ariana Rao"
 baidu_analytics_id = ""
 baidu_site_verification = ""
 copyright = "Copyright &copy; 2022 - Ariana Rao"
+title = "Ariana Rao - Digital Marketer"
 description = "Digital Marketing & Data Science Student"
 email = "arianarao.pro@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = ""
+# phone = ""
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -68,7 +69,7 @@ preloader = "images/preloader.gif"
 URL = "https://fr.linkedin.com/in/ariana-rao"
 icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
+URL = "https://fr-fr.facebook.com/ariana.miller.5245"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
