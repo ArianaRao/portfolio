@@ -1,7 +1,7 @@
 ---
 title: E-commerce page with HTML/CSS/JS
 date: 2021-11-01T12:00:00.000+06:00
-image: images/portfolio/creating-ecommerce-page-html-css-js.jpg
+image: images/portfolio/e-commerce-page-with-html-css-js.jpg
 scope: School, Individual
 project_url: https://assignment-2-rao.glitch.me/
 categories:
