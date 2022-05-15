@@ -11,6 +11,7 @@ sections:
   label: Post
   create: documents
   match: "**/*"
+  exclude: _*
   templates:
   - post
 - type: heading
