@@ -8,6 +8,26 @@
   {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   <!-- {{ hugo.Generator }} -->
 
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="{{ site.BaseURL }}" />
+  <meta property="og:title" content="{{ site.Params.title }}" />
+  <meta
+    property="og:description"
+    content="{{ site.Params.description }}"
+  />
+  <meta property="og:image" content="{{ `images/share.jpg` | absURL }}" />
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta property="twitter:domain" content="{{ site.BaseURL }}" />
+  <meta property="twitter:url" content="{{ site.BaseURL }}" />
+  <meta name="twitter:title" content="{{ site.Params.title }}" />
+  <meta
+    name="twitter:description"
+    content="{{ site.Params.description }}"
+  />
+  <meta name="twitter:image" content="{{ `images/share.jpg` | absURL }}" />
+
   {{ with site.Params.baidu_site_verification }}
 	{{ "<!-- baidu site verification -->" | safeHTML }}
   <meta name="baidu-site-verification" content="{{ . }}" />
@@ -29,8 +49,8 @@
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
-  <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
+  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
+  <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
 
   {{ with site.Params.google_analytics_id }}
 	{{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}
