@@ -1,19 +1,21 @@
-// Preloader js    
+function updateNav() {
+	if ($('.navigation').offset().top > 100) {
+		$('.navigation').addClass('nav-bg');
+	} else {
+		$('.navigation').removeClass('nav-bg');
+	}
+}
+
 $(window).on('load', function () {
 	$('.preloader').fadeOut(100);
+	updateNav();
 });
 
 (function ($) {
 	'use strict';
 
 	// Sticky Menu
-	$(window).scroll(function () {
-		if ($('.navigation').offset().top > 100) {
-			$('.navigation').addClass('nav-bg');
-		} else {
-			$('.navigation').removeClass('nav-bg');
-		}
-	});
+	$(window).scroll(updateNav);
 
 	// Background-images
 	$('[data-background]').each(function () {
