@@ -12,7 +12,7 @@ description: In the role of a data analyst, utilized Google Data Studio to perfo
 ---
 #### Overview
 
-In a group of 5, we were set in a situation where we are hired as new data analysts for Marcel, a French start-up that is starting to establish itself in the French VTC market. As a recent company, there is no advanced analytics process. Particularly, there is no centralized vision of the company's activity, with each team doing basic analysis on its own.
+In a group of 5, we were set in a situation where we are hired as new **data analysts** for **Marcel**, a French start-up that is starting to establish itself in the French VTC market. As a recent company, there is no advanced analytics process. Particularly, there is no **centralized vision** of the company's activity, with each team doing basic analysis on its own.
 
 The given made-up database contains four tables:
 
@@ -21,4 +21,4 @@ The given made-up database contains four tables:
 3. App data: all the platform's usage data
 4. Rides data: all the trips made by the company and by the other competitors.
 
-Our mission is to make a report using Google Data Studio that allows us to have a 360 vision of the company business.
+Our mission is to make a report using **Google Data Studio** that allows us to have a **360 vision** of the company **business**.
