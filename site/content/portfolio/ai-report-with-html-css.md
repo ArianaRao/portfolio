@@ -1,21 +1,25 @@
 ---
-title: "AI report with HTML/CSS"
-date: 2021-11-01T12:00:00+06:00
-image: "images/portfolio/ai-report-with-html-css.jpg"
-scope: "School, Individual"
-project_url : "https://assignment-rao-3.glitch.me/"
-categories: ["Web development"]
-description: "Creation of a documentation page using HTML and CSS."
-draft: false
----
+title: AI report with HTML/CSS
+date: 2021-11-01T12:00:00.000+06:00
+image: images/portfolio/ai-report-with-html-css.jpg
+scope: School, Individual
+project_url: https://assignment-rao-3.glitch.me/
+categories:
+- Web development
+description: Creation of a documentation page using HTML and CSS.
 
+---
 #### Overview
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+In this project, I have to create a documentation page based on the subject (**Sustainable Development goals**) using **HTML and CSS**. It summarizes the results of my exploratory research and reflects my understanding of the technologies and my subject's issues.
+
+At first, I looked for existing projects interestingly addressing my subject: "_Increase the incomes of small-scale food producers._" Then I summarized four projects that seem relevant to me, following the given detailed structure.
+
+In the end, I focused on only one of these projects. I deepened both the user experience aspects and the technical principle by designing a **UX storyboard** and researching their **AI technology**.
+
+Services/tools used:
+
+* Glitch
+* Google Fonts
+* Skeleton
+* Normalize
