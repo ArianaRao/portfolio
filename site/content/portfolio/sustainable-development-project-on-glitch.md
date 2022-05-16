@@ -1,21 +1,26 @@
 ---
-title: "Sustainable Development project on Glitch"
-date: 2021-12-01T12:00:00+06:00
-image: "images/portfolio/sustainable-development-project-on-glitch.jpg"
-scope: "School, Group"
-project_url : "https://greener.glitch.me/"
-categories: ["Web development"]
-description: "Website of a projet based on a sustainable development goal using HTML and CSS."
-draft: false
----
+title: Sustainable Development project on Glitch
+date: 2021-12-01T12:00:00.000+06:00
+image: images/portfolio/sustainable-development-project-on-glitch.jpg
+scope: School, Group
+project_url: https://greener.glitch.me/
+categories:
+- Web development
+description: Website of a projet based on a sustainable development goal using HTML
+  and CSS.
 
+---
 #### Overview
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+In a group of 5, we followed up on our common subject: "_Increase the incomes of small-scale food producers._" (Details found in my other individual project: AI report with HTML/CSS)
+
+As we already have a theme and a subject in common, we should find a research question within that subject and two projects within that research question.
+
+Along with our project definitions, we created **wireframes** for each of our projects using [Figma](https://www.figma.com/), the all-in-one **UX/UI solution** for designing websites, mobile apps, and more.
+
+Services/tools used:
+
+* Glitch
+* Google Fonts
+* Skeleton
+* Figma
