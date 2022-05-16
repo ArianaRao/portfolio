@@ -760,21 +760,26 @@ blockquote {
 }
 
 .content * {
-  margin-bottom: 20px
+  margin-bottom: 20px;
 }
 
-.content strong {
+/* .content strong {
   font-family: playfair display, serif;
   font-size: 22px;
   font-weight: 400;
   color: #000;
   display: inherit;
   line-height: 1.5
-}
+} */
 
 .content ul,
 .content ol {
   list-style-type: revert;
+}
+
+.content li ul,
+.content li ol {
+  margin-top: 20px;
 }
 
 .page-title-alt {
