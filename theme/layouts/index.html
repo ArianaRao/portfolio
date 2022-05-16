@@ -204,14 +204,17 @@
         {{ $item:= site.Data.homepage.portfolio.item_show }}
         {{ range first $item (where .Site.RegularPages "Section" "portfolio") }}
         <div class="col-lg-4 col-6 mb-4 shuffle-item">
+          <a href="{{ .Permalink }}">
           <div class="position-relative rounded hover-wrapper">
             <img src="{{.Params.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
             <div class="hover-overlay">
-              <div class="hover-content">
-                <a class="btn btn-light btn-sm" href="{{ .Permalink | safeURL }}">view project</a>
+              <div class="hover-content p-4">
+                <h4 class="text-white font-weight-bold font-primary mb-3">{{ .Params.title }}</h4>
+                <div class="btn btn-light btn-sm">view project</div>
               </div>
             </div>
           </div>
+          </a>
         </div>
         {{ end }}
       </div>
