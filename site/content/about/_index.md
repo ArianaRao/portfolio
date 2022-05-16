@@ -4,12 +4,12 @@ description: Digital Marketing & Data Science student.
 author_image: images/about/author.jpg
 
 ---
-Hi, nice to meet you! My name is Mingzi (a.k.a. **Ariana**) **RAO**, a **Chinese** girl exploring her life in **France**.
+Hi, nice to meet you! My name is Mingzi **Ariana** **RAO**, a **Chinese** girl exploring her life in **France**.
 
-Originally from a small city called **Chengde**, I am proud of what it holds in as culture and beauty. Born as an **adventurer**, I never stop dreaming of seeing a wider world. Thanks to my Bachelor's courses and its **exchange program** with **Sorbonne University**, I got the chance to continue my studies in France and know this country as it is.
+Originally from a small city called **Chengde**, I am proud of what it holds in as culture and beauty. Born as an **adventurer**, I never stopped dreaming of seeing a wider world. Thanks to my Bachelor's courses and its **exchange program** with **Sorbonne University**, I got the chance to continue my studies in France and know this country.
 
-During my time spent in Sorbonne finishing my Master of **International Business and Management**, I developed my interests in **digital marketing** and its related fields. So I am currently pursuing a MSc of **Digital Marketing & Data Science** at the **emlyon business school**, looking forward to turn my inner interests into practical skills.
+During my time at Sorbonne finishing my Master of **International Business and Management**, I became interested in **digital marketing** and its related fields. Hoping to turn my inner interests into practical skills, I am currently pursuing an MSc in **Digital Marketing & Data Science** at the **emlyon business school**. 
 
-As a **cinephile**, **fashion** lover and **music** fanatic, I have clear visions and ideas in those fields. In the meanwhile, my years of experience as a Chinese consumer and a trend chaser have given me a deeper understanding of the **e-commerce** market and its ever-changing marketing **strategies**.
+As a **film** enthusiast, **fashion** lover, and **music** fanatic, I was able to curate an acquired **taste** in these fields. Meanwhile, my years of experience as a Chinese consumer and a trend chaser have given me an acute and perceptive **understanding** of the fast-developing **e-commerce** market and its ever-changing **marketing landscape**. 
 
-My innate **curiosity** and **creativity** drive me to uncover how people behave and create solutions accordingly. In addition, my newly acquired **data analysis** capabilities will provide more informed data to support my ideas. I can't wait to use my different skills and learn more in my future career!
+My innate **curiosity** and **creativity** drive me to uncover how people behave and create solutions accordingly. In addition, my newly acquired **data analysis** capabilities will equip me to deal with data more **insightfully** and make **informed decisions**. I can't wait to utilize my different skills and learn more in my future career!
