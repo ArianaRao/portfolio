@@ -1,21 +1,33 @@
 ---
-title: "Customer Churn Prediction with ML models"
-date: 2022-02-01T12:00:00+06:00
-image: "images/portfolio/customer-churn-prediction-ml-models.jpg"
-scope: "School, Group"
-project_url : "https://www.canva.com/design/DAE5knPfNuc/xUZA9sn3G-3CanwkpxY0PA/view"
-categories: ["Machine learning"]
-description: "Prediction of customer churn using ML models."
-draft: false
----
+title: Customer Churn Prediction with ML models
+date: 2022-02-01T12:00:00.000+06:00
+image: images/portfolio/customer-churn-prediction-ml-models.jpg
+scope: School, Group
+project_url: https://www.canva.com/design/DAE5knPfNuc/xUZA9sn3G-3CanwkpxY0PA/view
+categories:
+- Machine learning
+description: Prediction of customer churn using ML models.
 
+---
 #### Overview
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+In a group of 6, we used a telecom company's customers' **database** to **predict** their customer churn using several **machine learning models**.
+
+We have a database with demographic and account-related information about the customers and the services they subscribed to in the telecommunication company. 
+
+First, we **cleaned** and **transformed** this dataset. We explored our data by visualizing and understanding it to know which information is more useful for our analysis and if some adjustments are needed. Then we used some **prediction models**:
+
+* logistic regression
+* random forests
+* support vector machines
+
+We **tested** these models and **evaluated** their performance in predicting the customer churn.
+
+Finally, we concluded by selecting the best model with hyperparameters.
+
+We focused our report and our analysis on those questions:
+
+* Identify the customers who are going to churn
+* Features that **correlate** to customer churn
+* Different types of churns 
+* **Recommendations** based on the problems discovered
