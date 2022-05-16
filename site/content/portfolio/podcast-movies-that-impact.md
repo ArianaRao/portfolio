@@ -1,26 +1,26 @@
 ---
-title: "Podcast: Movies that Impact"
-date: 2021-11-01T12:00:00+06:00
-image: "images/portfolio/podcast-movies-that-impact.jpg"
-scope: "School, Group"
-project_url : "https://moviesthatimpact.carrd.co/"
-categories: ["Marketing"]
-description: "Creation of a podcast about movies."
-draft: false
----
+title: 'Podcast: Movies that Impact'
+date: 2021-11-01T12:00:00.000+06:00
+image: images/portfolio/podcast-movies-that-impact.jpg
+scope: School, Group
+project_url: https://moviesthatimpact.carrd.co/
+categories:
+- Marketing
+description: Creation of a podcast about movies.
 
+---
 #### Links
 
-- Trailer on SoundCloud: https://soundcloud.com/b4sol9cq4dm6/podcast-trailer
-- Pilot episode on SoundCloud: https://soundcloud.com/b4sol9cq4dm6/crazy-banquet
+* Trailer on SoundCloud: https://soundcloud.com/b4sol9cq4dm6/podcast-trailer
+* Pilot episode on SoundCloud: https://soundcloud.com/b4sol9cq4dm6/crazy-banquet
 
 #### Overview
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+In a group of 6, we should create a **podcast** on a subject based on our course **Web Content Strategy**. All of us as **movie lovers**, we chose "cinema culture" as our subject and decided to make a podcast called "Movies that Impact".
+
+We ended up finishing the deliverables in four dimensions:
+
+1. Written: a landing page of our podcast.
+2. Visual: illustration and branding of the landing page.
+3. Audio: the podcast trailer and pilot episode.
+4. Video: an individual 1-minute video promoting the podcast.
