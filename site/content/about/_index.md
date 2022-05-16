@@ -1,6 +1,6 @@
 ---
 title: About
-description: Digital Marketing & Data Science student.
+# description: Digital Marketing & Data Science student.
 author_image: images/about/author.jpg
 
 ---

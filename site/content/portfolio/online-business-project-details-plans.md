@@ -1,5 +1,5 @@
 ---
-title: Online Business Project with Details Plans
+title: Online Business Project<br/> with Details Plans
 date: 2022-01-01T12:00:00.000+06:00
 image: images/portfolio/online-business-project-details-plans.jpg
 scope: School, Group

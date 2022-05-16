@@ -1,5 +1,5 @@
 ---
-title: Data Visualization with Google Data Studio
+title: Data Visualization<br/> with Google Data Studio
 date: 2022-04-01T12:00:00.000+06:00
 image: images/portfolio/data-viz-with-google-studio.jpg
 scope: School, Group

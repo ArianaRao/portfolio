@@ -1,5 +1,5 @@
 ---
-title: Customer Churn Prediction with ML models
+title: Customer Churn Prediction<br/> with ML models
 date: 2022-02-01T12:00:00.000+06:00
 image: images/portfolio/customer-churn-prediction-ml-models.jpg
 scope: School, Group

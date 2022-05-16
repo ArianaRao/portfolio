@@ -1,19 +1,24 @@
 <head>
+  {{ $title := cond (and (.Page.Title) (not .IsHome)) (printf "%s%s" (.Page.Title | plainify) " - ") "" }}
+  {{ $title = printf "%s%s" $title site.Params.title }}
+
+  {{ $description := cond (eq .Description "") site.Params.description .Description}}
+
   <meta charset="utf-8">
-  <title>{{ if and (.Page.Title) (not .IsHome) }}{{ .Page.Title }} - {{ end }}{{ site.Params.title }}</title>
+  <title>{{ $title }}</title>
 
   {{ "<!-- Responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  <meta name="description" content="{{ $description }}">
   {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
   {{ "<!-- Facebook Meta Tags -->" | safeHTML }}
   <meta property="og:url" content="{{ site.BaseURL }}" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="{{ site.Params.title }}" />
+  <meta property="og:title" content="{{ $title }}" />
   <meta
     property="og:description"
-    content="{{ site.Params.description }}"
+    content="{{ $description }}"
   />
   <meta property="og:image" content="{{ `images/share.jpg` | absURL }}" />
 
@@ -21,10 +26,10 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta property="twitter:domain" content="{{ site.BaseURL }}" />
   <meta property="twitter:url" content="{{ site.BaseURL }}" />
-  <meta name="twitter:title" content="{{ site.Params.title }}" />
+  <meta name="twitter:title" content="{{ $title }}" />
   <meta
     name="twitter:description"
-    content="{{ site.Params.description }}"
+    content="{{ $description }}"
   />
   <meta name="twitter:image" content="{{ `images/share.jpg` | absURL }}" />
 

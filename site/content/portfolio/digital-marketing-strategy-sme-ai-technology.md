@@ -1,5 +1,5 @@
 ---
-title: Digital Marketing Strategy Applied to a SME with AI Technology
+title: Digital Marketing Strategy Applied to a SME<br/> with AI Technology
 date: 2021-11-01T12:00:00.000+06:00
 image: images/portfolio/digital-marketing-strategy-sme-ai-technology.jpg
 scope: School, Group

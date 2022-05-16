@@ -1,5 +1,5 @@
 ---
-title: Data Visualization with Power BI
+title: Data Visualization<br/> with Power BI
 date: 2022-04-01T12:00:00.000+06:00
 image: images/portfolio/data-viz-with-power-bi.jpg
 scope: School, Group
