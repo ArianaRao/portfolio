@@ -21,7 +21,7 @@ Until now, the reports have been made in Excel / PowerPoint and Airbnb aims to *
 
 Our objective is to make a dashboard in Power BI based on a made-up dataset aiming to:
 
-1. Make a **review of your activities** and present them to the Directory Manager
+1. Make a **review of your activities** and present them to the Directory Manager.
 2. Prepare the analysis to align with the next year's target operating model of Airbnb:
    * **Identify** good and bad practitioners.
    * **Evaluate** the number of bad practitioners and the reasons.
