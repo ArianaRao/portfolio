@@ -36,7 +36,7 @@ So we designed 3 “cases” where AI techs can be used to **reinforce** Digital
 
 Our report includes:
 
-* The AI tech used
-* What it does (How it works...)
-* How it improves Digital marketing actions
-* Show examples of existing actions performed by this technology in other companies
+* The AI tech used.
+* What it does (How it works...).
+* How it improves Digital marketing actions.
+* Show examples of existing actions performed by this technology in other companies.
