@@ -15,7 +15,7 @@ description: Digital marketing strategy suggestions for a SME that includes AI T
 
 #### Overview
 
-First report context:
+##### First report context
 
 In a group of 6, we work as Digital Marketing Officers in an SME (which we choose **Typology** in this case). Our first task is to prepare a comprehensive report for the owner:
 
@@ -26,7 +26,7 @@ In a group of 6, we work as Digital Marketing Officers in an SME (which we choos
 * Collect **insights on performance**.
 * Provide a global **evaluation** of the company’s digital marketing **strategy**.
 
-Second report context:
+##### Second report context
 
 Our first report on the Digital Marketing Strategy was well-received by the Top management.
 
