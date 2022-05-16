@@ -774,7 +774,7 @@ blockquote {
 
 .content ul,
 .content ol {
-  list-style-type: initial;
+  list-style-type: revert;
 }
 
 .page-title-alt {
