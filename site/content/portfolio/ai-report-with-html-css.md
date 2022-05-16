@@ -19,7 +19,7 @@ In the end, I focused on only one of these projects. I deepened both the user ex
 
 Services/tools used:
 
-* Glitch
-* Google Fonts
-* Skeleton
-* Normalize
+* **Glitch**
+* **Google Fonts**
+* **Skeleton**
+* **Normalize**
