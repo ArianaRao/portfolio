@@ -13,3 +13,5 @@ During my time at Sorbonne finishing my Master of **International Business and M
 As a **film** enthusiast, **fashion** lover, and **music** fanatic, I was able to curate an acquired **taste** in these fields. Meanwhile, my years of experience as a Chinese consumer and a trend chaser have given me an acute and perceptive **understanding** of the fast-developing **e-commerce** market and its ever-changing **marketing landscape**. 
 
 My innate **curiosity** and **creativity** drive me to uncover how people behave and create solutions accordingly. In addition, my newly acquired **data analysis** capabilities will equip me to deal with data more **insightfully** and make **informed decisions**. I can't wait to utilize my different skills and learn more in my future career!
+
+Thank you! 谢谢！
