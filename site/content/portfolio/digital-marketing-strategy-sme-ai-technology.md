@@ -1,25 +1,42 @@
 ---
-title: "Digital Marketing Strategy Applied to a SME with AI Technology"
-date: 2021-11-01T12:00:00+06:00
-image: "images/portfolio/digital-marketing-strategy-sme-ai-technology.jpg"
-scope: "School, Group"
-categories: ["Marketing"]
-description: "Digital marketing strategy suggestions for a SME that includes AI Technology."
-draft: false
----
+title: Digital Marketing Strategy Applied to a SME with AI Technology
+date: 2021-11-01T12:00:00.000+06:00
+image: images/portfolio/digital-marketing-strategy-sme-ai-technology.jpg
+scope: School, Group
+categories:
+- Marketing
+description: Digital marketing strategy suggestions for a SME that includes AI Technology.
 
+---
 #### Links
 
-- [Typology's digital markting report](/pdfs/digital-marketing-strategy-sme-ai-technology/typology-digital-marketing-report.pdf)
-- [Typology's AI application cases](/pdfs/digital-marketing-strategy-sme-ai-technology/typology-ai-application-cases.pdf)
+* [Typology's digital marketing report](/pdfs/digital-marketing-strategy-sme-ai-technology/typology-digital-marketing-report.pdf)
+* [Typology's AI application cases](/pdfs/digital-marketing-strategy-sme-ai-technology/typology-ai-application-cases.pdf)
 
 #### Overview
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+##### First report context
+
+In a group of 6, we work as Digital Marketing Officers in an SME (which we chose **Typology** in this case). Our first task is to prepare a comprehensive report for the owner:
+
+* Identify and list the **digital communication activities** of the company.
+* Describe all **visible digital marketing efforts** on platforms and channels.
+* Evaluate digital presence/traces on both **quantitative/qualitative** levels.
+* Evaluate **tone of voice, types of content,** and general **coherence**.
+* Collect **insights on performance**.
+* Provide a global **evaluation** of the company’s digital marketing **strategy**.
+
+##### Second report context
+
+Our first report on the Digital Marketing Strategy was well-received by the Top management.
+
+Now, they’re interested in this strategy, where AI Tools and functionalities could help improve automation, targeting, performance, and analysis.
+
+So we designed 3 “cases” where AI techs can be used to **reinforce** Digital marketing actions and **add value** to data collection.
+
+Our report includes:
+
+* The AI tech used
+* What it does (How it works...)
+* How it improves Digital marketing actions
+* Show examples of existing actions performed by this technology in other companies

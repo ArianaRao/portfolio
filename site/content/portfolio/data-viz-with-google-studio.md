@@ -16,9 +16,9 @@ In a group of 5, we were set in a situation where we are hired as new **data ana
 
 The given made-up database contains four tables:
 
-1. Media data: all the data of the media campaigns realized by the company
-2. Campaign names: all the campaign names that have been performed by the company
-3. App data: all the platform's usage data
+1. Media data: all the data of the media campaigns realized by the company.
+2. Campaign names: all the campaign names that have been performed by the company.
+3. App data: all the platform's usage data.
 4. Rides data: all the trips made by the company and by the other competitors.
 
 Our mission is to make a report using **Google Data Studio** that allows us to have a **360 vision** of the company **business**.
