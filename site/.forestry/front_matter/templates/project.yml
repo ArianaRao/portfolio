@@ -13,8 +13,8 @@ fields:
   name: image
   label: image
 - type: text
-  name: type
-  label: type
+  name: scope
+  label: scope
 - type: text
   name: project_url
   label: project_url
