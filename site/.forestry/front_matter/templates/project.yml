@@ -25,6 +25,7 @@ fields:
   name: description
   label: description
 pages:
+- site/content/portfolio/data-viz-with-power-bi.md
 - site/content/portfolio/digital-marketing-strategy-sme-ai-technology.md
 - site/content/portfolio/e-commerce-page-with-html-css-js.md
 - site/content/portfolio/online-business-project-details-plans.md
