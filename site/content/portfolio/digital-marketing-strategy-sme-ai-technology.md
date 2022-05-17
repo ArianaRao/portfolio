@@ -6,6 +6,7 @@ scope: School, Group
 categories:
 - Marketing
 description: Digital marketing strategy suggestions for a SME that includes AI Technology.
+project_url: ''
 
 ---
 #### Links
