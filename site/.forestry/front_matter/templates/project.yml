@@ -25,5 +25,6 @@ fields:
   name: description
   label: description
 pages:
+- site/content/portfolio/online-business-project-details-plans.md
 - site/content/portfolio/podcast-movies-that-impact.md
 - site/content/portfolio/sustainable-development-project-on-glitch.md
