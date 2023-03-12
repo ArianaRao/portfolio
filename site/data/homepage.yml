@@ -16,18 +16,18 @@ experience:
   enable: true
   title: Experience
   item:
-  - logo: images/experience/icon-1.png
-    title: Marketing and Communication Manager
-    company: Aurizone
-    duration: 4 months - 2019
-  - logo: images/experience/icon-2.png
-    title: Communication Assistant
-    company: Europa Holiday Travel
-    duration: 5 months - 2019
   - logo: images/experience/icon-2.png
     duration: 6 months - 2022
     title: Data Analyst & Customer Performance Assistant
     company: Cartier France
+  - logo: images/experience/icon-2.png
+    title: In Company Project
+    company: China Southern Airlines
+    duration: 3 months - 2022
+  - logo: images/experience/icon-1.png
+    title: Marketing and Communication Manager
+    company: Aurizone
+    duration: 4 months - 2019
 education:
   enable: true
   title: Education
