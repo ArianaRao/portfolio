@@ -1,9 +1,9 @@
 baseURL = "https://ariana-rao.com/"
+disableHugoGeneratorInject = true
 languageCode = "en-us"
 summaryLength = "10"
-disableHugoGeneratorInject = true
-themesDir = ".."
 theme = "theme"
+themesDir = ".."
 title = "Ariana Rao"
 [[menu.main]]
 URL = "about"
@@ -13,10 +13,6 @@ weight = 1
 URL = "portfolio"
 name = "Portfolio"
 weight = 2
-# [[menu.main]]
-# URL = "blog"
-# name = "Blog"
-# weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
@@ -26,15 +22,14 @@ address = ""
 author = "Ariana Rao"
 baidu_analytics_id = ""
 baidu_site_verification = ""
-copyright = "Copyright &copy; 2022 - Ariana Rao"
-title = "Ariana Rao - Digital Marketer"
-description = "Digital Marketing & Data Science student looking for a 6-month internship."
+copyright = "Copyright &copy; 2023 - Ariana Rao"
+description = "Digital Marketing & Data Science graduate looking for a full time job in the luxury or consulting industry."
 email = "arianarao.pro@gmail.com"
 google_analytics_id = "G-F09C5B17XT"
 home = "Home"
 logo = ""
-# phone = ""
 theme_color = "#41228e"
+title = "Ariana Rao - Digital Marketer"
 [params.contact]
 enable = true
 form_action = "https://formspree.io/f/xrgjrybz"
