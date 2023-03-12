@@ -24,6 +24,10 @@ experience:
     title: Communication Assistant
     company: Europa Holiday Travel
     duration: 5 months - 2019
+  - logo: images/experience/icon-2.png
+    duration: 6 months - 2022
+    title: Data Analyst & Customer Performance Assistant
+    company: Cartier France
 education:
   enable: true
   title: Education
